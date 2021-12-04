@@ -1,5 +1,5 @@
 ## 💻 Hello, World!
-I'm Shynji Robbie Miyasato, and, sadly enough, this is my second GitHub page, as I've lost access to my first one early this year, lol.  
+I'm Shynji Robbie Miyasato, and, sadly enough, this is my second GitHub page, as I've lost access to my first one earlier this year, lol.  
 
 Anywho, I'm a computer enthusiast studying at one of the campus of the Federal Institute of Education, Science and Technology of Mato Grosso do Sul, best known as IFMS.
 
