@@ -4,7 +4,6 @@ Olá, meu nome é Shynji! Seja bem-vindo(a) a minha página no GitHub!
 ## Sobre mim
 Eu estou no meu último ano do curso técnico integrado em informática no [IFMS](https://www.ifms.edu.br/). Eu sempre tive um interesse muito grande por computadores e programação, especialmente programação de aplicações desktop, e, depois de me matriculara no IF, comecei a estudar mais a fundo algumas das tecnologias usadas no mercado e sobre desenvolvimento em geral.
 
----
 ## Projetos
 Durante meu curso, aprendi algumas linguagens de programação, como C/C++, Java e JS. Além disso, aprendi sobre estruturação e estilização de páginas web usando HTML e CSS, além de banco de dados. Fora da escola, aprendi outras linguagens, como Python e LUA de forma autodidata. Alguns de meus projetos que gostaria de destacar são: 
 - [Mad-libs Solution Application (Python - EN)](https://github.com/mira-oza/mad-libs-python)
