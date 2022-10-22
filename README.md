@@ -1,14 +1,18 @@
-## 💻 Hello, World!
-I'm Shynji Robbie Miyasato, and, sadly enough, this is my second GitHub page, as I've lost access to my first one earlier this year, lol.  
+# 💻 Hello, World! (🇧🇷/🇺🇸)
+Olá, meu nome é Shynji! Seja bem-vindo(a) a minha página no GitHub!
 
-Anywho, I'm a computer enthusiast studying at one of the campus of the Federal Institute of Education, Science and Technology of Mato Grosso do Sul, best known as IFMS.
+## Sobre mim
+Eu estou no meu último ano do curso técnico integrado em informática no [IFMS](https://www.ifms.edu.br/). Eu sempre tive um interesse muito grande por computadores e programação, especialmente programação de aplicações desktop, e, depois de me matriculara no IF, comecei a estudar mais a fundo algumas das tecnologias usadas no mercado e sobre desenvolvimento em geral.
 
-I'm currently working on the development of some command line interface applications besides the projects from my classes, both of which you can find in my repositories.
+---
+## Projetos
+Durante meu curso, aprendi algumas linguagens de programação, como C/C++, Java e JS. Além disso, aprendi sobre estruturação e estilização de páginas web usando HTML e CSS, além de banco de dados. Fora da escola, aprendi outras linguagens, como Python e LUA de forma autodidata. Alguns de meus projetos que gostaria de destacar são: 
+- [Mad-libs Solution Application (Python - EN)](https://github.com/mira-oza/mad-libs-python)
+- [Simulador de geometria plana (JavaScript - PT-BR)](https://github.com/mira-oza/simulador-geometria-plana)
+- [API em REST para salvar imagens em um servidor (Java - PT-BR)](https://github.com/mira-oza/upload-api)
 
-- [Current Repository](https://github.com/mira-oza?tab=repositories)
-- [Old Repository](https://github.com/ap123b?tab=repositories)
+Você pode ver esses projetos e muitos outros no meu [repositório](https://github.com/mira-oza?tab=repositories) 👀.
 
-Apart from school and development, I've got to say some about myself, as this is, y'know, my profile and all.
-
-I like language learning, currently learning both English and Spanish, and, though I'm not really good at English, I still wish to study or work in the US sometime in the future.
-
+---
+# Contato
+Sintam-se livres para me contatar pelo email `m.shynjirobbie@gmail.com`! Adoro participar de novos projetos e aprender mais sobre esse vasto campo que todos amamos!
