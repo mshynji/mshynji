@@ -2,10 +2,10 @@
 Olá, meu nome é Shynji! Sejam bem-vindos a minha página no GitHub!
 
 ## Sobre mim
-Eu estou no meu último ano do curso técnico integrado em informática no [IFMS](https://www.ifms.edu.br/). Eu sempre tive um interesse muito grande por computadores e programação, especialmente programação de aplicações desktop, e, depois de me matricular no IF, comecei a estudar mais a fundo algumas das tecnologias usadas no mercado e sobre desenvolvimento em geral.
+Sou um técnico em informática formado pelo [IFMS](https://www.ifms.edu.br/). Eu sempre tive um interesse muito grande por computadores e programação, especialmente pela área de aplicações desktop. Atualmente estou matriculado no curso ténico de desenvolvimento de sistemas no Senac-MS.
 
 ## Projetos
-Durante meu curso, aprendi algumas linguagens de programação, como C/C++, Java e JS. Além disso, aprendi sobre estruturação e estilização de páginas web, usando HTML e CSS, além de banco de dados. Fora da escola, aprendi outras linguagens, como Python e LUA de forma autodidata. Alguns de meus projetos que gostaria de destacar são: 
+Tenho proficiência em algumas linguagens de programação, como C/C++, Java e Python. Apesar disso, também tenho muito interesse em desenvolvimento web. Você pode checar alguns dos meus projetos mais notórios:
 - [Mad-libs Solution Application (Python - EN)](https://github.com/mShynji/mad-libs-python)
 - [Simulador de geometria plana (JavaScript - PT-BR)](https://github.com/mShynji/simulador-geometria-plana)
 - [API em REST para salvar imagens em um servidor (Java - PT-BR)](https://github.com/mShynji/upload-api)
